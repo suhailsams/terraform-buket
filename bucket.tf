@@ -1,3 +1,3 @@
-resource "aws_s3_bucket" "s3-bucket" {
-  bucket = "awsjenkinsnew1"
+resource "aws_s3_bucket" "s3-bucket1" {
+  bucket = "awsjenkinsnew123"
 }
